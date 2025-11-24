@@ -1,7 +1,7 @@
 :root {
   --bs-font-sans-serif: 'Red Hat Display', sans-serif;
-  --bs-primary: #3b82f6;
-  --bs-primary-rgb: 59, 130, 246;
+  --bs-primary: #003894;
+  --bs-primary-rgb: 0, 56, 148;
   --bs-body-bg: #ffffff;
   --bs-body-color: #1f2937;
 }
@@ -85,8 +85,8 @@ h6 {
 }
 
 .btn-primary:hover {
-  background-color: #2563eb;
-  border-color: #2563eb;
+  background-color: #002a70;
+  border-color: #002a70;
 }
 
 /* Utilities */
